@@ -4,7 +4,7 @@ Modified Version of Linux Kernel
 ## Installation
 ### Before Installation
 ```
-ajmi@burner:~$ uname -mrs
+asrar@asrar:~$ uname -mrs
 Linux 5.13.0-1031-azure x86_64
 ```
 
@@ -17,7 +17,7 @@ sudo apt install build-essential libncurses-dev bison flex libssl-dev libelf-dev
 
 ### Clone Linux Kernel Repository
 ```
-git clone https://github.com/JameelKaisar/linux-kernel.git
+git clone https://github.com/LostParadise07/linux-kernel.git
 ```
 
 ### Change Directory
@@ -76,7 +76,7 @@ sudo reboot
 
 ### After Installation
 ```
-ajmi@burner:~$ uname -mrs
+asrar@asrar:~$ uname -mrs
 Linux 5.19.0-rc3 x86_64
 ```
 
